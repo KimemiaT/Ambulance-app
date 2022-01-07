@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "348605777137",
+    "firebase_url": "https://fir-iot-cf850.firebaseio.com",
+    "project_id": "fir-iot-cf850",
+    "storage_bucket": "fir-iot-cf850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348605777137:android:8b5eb142d91131b61b1550",
+        "android_client_info": {
+          "package_name": "com.project.sih.ambulancebookingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348605777137-16pgimeqgddh29p782jluchdtff2tff4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2HrqFfxFWI-ymN4qIJgX2ZW9mzwbgyok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348605777137-16pgimeqgddh29p782jluchdtff2tff4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
